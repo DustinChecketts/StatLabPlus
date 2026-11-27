@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: StatLabPlus
+## Notes: Session-based character statistic research
+## Version: 0.1.0-prototype
+## SavedVariables: StatLabPlusDB
+StatLabPlus.lua
